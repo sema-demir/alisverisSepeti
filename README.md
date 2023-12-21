@@ -16,4 +16,6 @@ Bu proje, kullanıcıların çevrimiçi alışveriş sepeti oluşturmasına, ö�
 
 - **Frontend:** HTML, CSS, JavaScript, 
 
+<h2>Ekran Görüntüsü</h2>
+![](alısveris.gif)
 
